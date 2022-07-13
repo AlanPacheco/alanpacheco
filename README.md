@@ -1,9 +1,9 @@
-<h1 align="center">Eu sou o Alan Pacheco e aqui vai um pouco da minha história... 💪 </h1>
+<h1 align="center">Eu sou o Alan Pacheco e é muito bom ter você por aqui. Abaixo vai um pouco da minha história... 💪 </h1>
 
 
 - 📖 Desde adolescente meu sonho era ser desenvolvedor de software.
 - 🗓 Iniciei no mundo da programação em 2016 com a linguagem C.
-- 👨‍🎓 Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFBA.
 - 😉 Possuo experiência na area de administração e infraestrutura de redes.
 - 💪 Faz 1 mês que encerrei uma jornada de aproximadamente 14 anos como Analista de Suporte para ir em busca da tão sonhada carreira como desenvolvedor.💪
 - 📖💗☕ Hoje estou estudando as seguintes tecnologias: Java, Spring Framework, ReactJs.☕
