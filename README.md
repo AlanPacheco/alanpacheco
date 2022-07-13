@@ -1,7 +1,7 @@
 <h1 align="center">Eu sou o Alan Pacheco e aqui vai um pouco da minha história... 💪 </h1>
 
 
-- 📖 Desde adolescente meu sonho era ser um desenvolvedor de software.
+- 📖 Desde adolescente meu sonho era ser desenvolvedor de software.
 - 🗓 Iniciei no mundo da programação em 2016 com a linguagem C.
 - 👨‍🎓 Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas.
 - 😉 Possuo experiência na area de administração e infraestrutura de redes.
