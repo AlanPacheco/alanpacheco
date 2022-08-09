@@ -8,8 +8,8 @@
 - 🗓 Iniciei no mundo da programação em 2016 com a linguagem C.
 - 👨‍🎓 Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFBA.
 - 😉 Possuo experiência na area de administração e infraestrutura de redes.
-- 💪 Faz 2 meses que encerrei uma jornada de aproximadamente 14 anos como Analista de Suporte para ir em busca da tão sonhada carreira como desenvolvedor.💪
-- 📖💗☕ Hoje estou estudando as seguintes tecnologias: Java, Spring Framework, ReactJs.
+- 💪 Faz 2 meses que encerrei uma jornada de quase 14 anos trabalhando como Analista de Suporte para ir em busca da tão sonhada carreira como desenvolvedor.💪
+- 💗☕ Hoje estou estudando as seguintes tecnologias: Java, Spring Framework, ReactJs.
 - 🤩 Nas horas vagas(momento raríssimo..rsrs) gosto de brincar com eletrônica e arduíno.
 
  "Não existe derrota para quem estuda! Ou vence, ou aprende!"
