@@ -8,7 +8,7 @@
 - 🎓 Graduado em Redes de Computadores pela Unifacs.
 - 🗓 Iniciei no mundo da programação em 2016 com a linguagem C.
 - 👨‍🎓 Atualmente concluindo a segunda graduação no curso de Análise e Desenvolvimento de Sistemas no IFBA.
-- 💪 Faz 5 meses que encerrei uma jornada de quase 14 anos trabalhando como Analista de Sistemas para focar na área de desenvolvimento de software.💪
+- 💪 Faz 6 meses que encerrei uma jornada de quase 14 anos trabalhando como Analista de Sistemas para focar na área de desenvolvimento de software.💪
 - 💗☕ Sigo estudando as seguintes tecnologias: Java, Ecossistema Spring (Boot, Framework, Data, Validation e Security), Docker, ReactJs.
 - 🤩 Nas horas vagas(momento raríssimo..rsrs) gosto de brincar com eletrônica e arduíno.
 
