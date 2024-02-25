@@ -1,15 +1,14 @@
 <h1 align="center">Olá, eu sou o Alan Pacheco e é muito bom ter você por aqui.😃</h1>
 
 
-<h3>Breve resumo da minha história...💪</h3>
+<h3>Breve resumo...💪</h3>
 <br>
 
 - 📖 Desde adolescente meu sonho era ser desenvolvedor de software.
 - 🎓 Graduado em Redes de Computadores pela Unifacs.
-- 🗓 Iniciei no mundo da programação em 2016 com a linguagem C.
 - 👨‍🎓 Atualmente concluindo a segunda graduação no curso de Análise e Desenvolvimento de Sistemas no IFBA.
-- 💪 Faz 6 meses que encerrei uma jornada de quase 14 anos trabalhando como Analista de Sistemas para focar na área de desenvolvimento de software.💪
-- 💗☕ Sigo estudando as seguintes tecnologias: Java, Ecossistema Spring (Boot, Framework, Data, Validation e Security), Docker, ReactJs.
+- 💪 Mais de 14 anos de experiência trabalhando como Analista de Sistemas.💪
+- 💗☕ Tecnologias: Linguagem C, Java, Ecossistema Spring (Boot, Framework, Data, Validation e Security), Docker, ReactJs, AngularJs.
 - 🤩 Nas horas vagas(momento raríssimo..rsrs) gosto de brincar com eletrônica e arduíno.
 
  "Não existe derrota para quem estuda! Ou vence, ou aprende!"
