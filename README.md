@@ -8,7 +8,7 @@
 - 🎓 Graduado em Redes de Computadores pela Unifacs.
 - 👨‍🎓 Atualmente concluindo a segunda graduação no curso de Análise e Desenvolvimento de Sistemas no IFBA.
 - 💪 Mais de 14 anos de experiência trabalhando como Analista de Sistemas.💪
-- 💗☕ Tecnologias: Linguagem C, Java, Ecossistema Spring (Boot, Framework, Data, Validation e Security), Docker, ReactJs, AngularJs.
+- 💗☕ Tecnologias: Linguagem C, Java, Ecossistema Spring (Boot, Framework, Data, Validation e Security), Docker, ReactJs, Angular.
 - 🤩 Nas horas vagas(momento raríssimo..rsrs) gosto de brincar com eletrônica e arduíno.
 
  "Não existe derrota para quem estuda! Ou vence, ou aprende!"
