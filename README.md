@@ -1,9 +1,3 @@
-<h1 align="center">Olá, eu sou o Alan Pacheco e é muito bom ter você por aqui.😃</h1>
-
-
-<h3>Breve resumo...💪</h3>
-<br>
-
 - 📖 Desde adolescente meu sonho era ser desenvolvedor de software.
 - 🎓 Graduado em Redes de Computadores pela Unifacs.
 - 👨‍🎓 Atualmente concluindo a segunda graduação no curso de Análise e Desenvolvimento de Sistemas no IFBA.
